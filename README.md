@@ -1,22 +1,24 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Crunch Time is a simple app that tells you how many Calories you burn from a particular exercise and vice versa. 
+Developed for CS 160 at UC Berkeley.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Jaskirat Mahal ([jmahal@berkeley.edu](mailto:jmahal@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+Watch [the demo video title here] (https://youtu.be/thoU392IyFQ)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/initial.png" height="400" alt="Screenshot"/>
+<img src="screenshots/CaltoEx.png" height="400" alt="Screenshot"/>
+
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+Thanks to the CS 160 staff!
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+
