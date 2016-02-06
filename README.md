@@ -13,10 +13,8 @@ Watch [the demo video title here] (https://youtu.be/thoU392IyFQ)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
-
-<!-- <img src="screenshots/initial.png" height="400" alt="Screenshot"/> -->
-<!-- <img src="screenshots/CaltoEx.png" height="400" alt="Screenshot"/> -->
+<img src="screenshots/initial.PNG" height="400" alt="Screenshot"/>
+<img src="screenshots/CaltoEx.PNG" height="400" alt="Screenshot"/>
 
 
 ## Acknowledgments
